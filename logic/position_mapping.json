@@ -1,0 +1,23 @@
+{
+	"0": { "name": "QB", "side": "offense" },
+	"1": { "name": "HB", "side": "offense" },
+	"2": { "name": "FB", "side": "offense" },
+	"3": { "name": "WR", "side": "offense" },
+	"4": { "name": "TE", "side": "offense" },
+	"5": { "name": "POS", "side": "offense" },
+	"6": { "name": "POS", "side": "offense" },
+	"7": { "name": "POS", "side": "offense" },
+	"8": { "name": "POS", "side": "offense" },
+	"9": { "name": "POS", "side": "offense" },
+	"10": { "name": "LE", "side": "defense" },
+	"11": { "name": "RE", "side": "defense" },
+	"12": { "name": "DT", "side": "defense" },
+	"13": { "name": "LOLB", "side": "defense" },
+	"14": { "name": "MLB", "side": "defense" },
+	"15": { "name": "ROLB", "side": "defense" },
+	"16": { "name": "CB", "side": "defense" },
+	"17": { "name": "FS", "side": "defense" },
+	"18": { "name": "SS", "side": "defense" },
+	"19": { "name": "K", "side": "defense" },
+	"20": { "name": "P", "side": "defense" }
+}
